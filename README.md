@@ -2,6 +2,12 @@
 
 Bounding boxes and polygons
 
+## How to use Python libs
+
+First program, main.py run the computations
+Second program, main_cv.py runs the computations and also verify the execution plotting the cloud points generated 
+and also the transformation
+
 ## Motivation/Background
 
 Fish eye lenses are useful for capturing large field of views from a static position. However, the optical distortion characteristics can vary widely between manufacturers/models and subtly between "identical" lenses due to manufacturing imperfections (see two different examples in the comments below).
